@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\bin\Debug\Dosya_Klasor.exe.config
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\bin\Debug\Dosya_Klasor.exe
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\bin\Debug\Dosya_Klasor.pdb
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.Form1.resources
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.Properties.Resources.resources
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.exe
+C:\Users\HP\source\repos\Dosya_Klasor\Dosya_Klasor\obj\Debug\Dosya_Klasor.pdb

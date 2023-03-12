@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\HP\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\HP\source\repos\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\HP\source\repos\Diziler\Diziler\obj\Debug\Diziler.pdb

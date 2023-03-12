@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Form1.resources
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Properties.Resources.resources
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.exe.config
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.exe
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.pdb
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.exe
+C:\Users\HP\source\repos\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.pdb

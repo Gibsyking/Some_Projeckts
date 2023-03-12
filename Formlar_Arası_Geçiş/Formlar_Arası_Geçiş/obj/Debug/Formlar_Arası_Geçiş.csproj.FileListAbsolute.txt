@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\bin\Debug\Formlar_Arası_Geçiş.exe.config
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\bin\Debug\Formlar_Arası_Geçiş.exe
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\bin\Debug\Formlar_Arası_Geçiş.pdb
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.Form1.resources
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.Form2.resources
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.Properties.Resources.resources
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.exe
+C:\Users\HP\source\repos\Formlar_Arası_Geçiş\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.pdb

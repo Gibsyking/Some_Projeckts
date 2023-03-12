@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.Form1.resources
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.Properties.Resources.resources
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\bin\Debug\Metin_Belgesi_Kaydetmi.exe.config
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\bin\Debug\Metin_Belgesi_Kaydetmi.exe
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\bin\Debug\Metin_Belgesi_Kaydetmi.pdb
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.exe
+C:\Users\HP\source\repos\Metin_Belgesi_Kaydetmi\Metin_Belgesi_Kaydetmi\obj\Debug\Metin_Belgesi_Kaydetmi.pdb

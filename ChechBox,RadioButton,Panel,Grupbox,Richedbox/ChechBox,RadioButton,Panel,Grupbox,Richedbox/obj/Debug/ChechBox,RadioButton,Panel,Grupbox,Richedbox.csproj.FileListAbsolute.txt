@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\bin\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.exe.config
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\bin\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.exe
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\bin\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.pdb
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox_RadioButton_Panel_Grupbox_Richedbox.Form1.resources
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox_RadioButton_Panel_Grupbox_Richedbox.Properties.Resources.resources
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.exe
+C:\Users\HP\source\repos\ChechBox,RadioButton,Panel,Grupbox,Richedbox\ChechBox,RadioButton,Panel,Grupbox,Richedbox\obj\Debug\ChechBox,RadioButton,Panel,Grupbox,Richedbox.pdb

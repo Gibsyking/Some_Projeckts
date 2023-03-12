@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\bin\Debug\integer aritmetik 4 işlem.exe.config
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\bin\Debug\integer aritmetik 4 işlem.exe
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\bin\Debug\integer aritmetik 4 işlem.pdb
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer aritmetik 4 işlem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer aritmetik 4 işlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer_aritmetik_4_işlem.Form1.resources
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer_aritmetik_4_işlem.Properties.Resources.resources
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer aritmetik 4 işlem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer aritmetik 4 işlem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer aritmetik 4 işlem.exe
+C:\Users\HP\source\repos\integer aritmetik 4 işlem\integer aritmetik 4 işlem\obj\Debug\integer aritmetik 4 işlem.pdb

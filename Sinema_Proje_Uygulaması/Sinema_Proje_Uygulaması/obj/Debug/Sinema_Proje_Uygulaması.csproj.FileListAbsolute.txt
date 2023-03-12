@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\bin\Debug\Sinema_Proje_Uygulaması.exe.config
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\bin\Debug\Sinema_Proje_Uygulaması.exe
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\bin\Debug\Sinema_Proje_Uygulaması.pdb
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.Form1.resources
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.Properties.Resources.resources
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.exe
+C:\Users\HP\source\repos\Sinema_Proje_Uygulaması\Sinema_Proje_Uygulaması\obj\Debug\Sinema_Proje_Uygulaması.pdb

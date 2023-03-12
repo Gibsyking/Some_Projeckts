@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\bin\Debug\Hata_Kontorolleri_Try_Cath.exe.config
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\bin\Debug\Hata_Kontorolleri_Try_Cath.exe
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\bin\Debug\Hata_Kontorolleri_Try_Cath.pdb
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.Form1.resources
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.Properties.Resources.resources
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.exe
+C:\Users\HP\source\repos\Hata_Kontorolleri_Try_Cath\Hata_Kontorolleri_Try_Cath\obj\Debug\Hata_Kontorolleri_Try_Cath.pdb

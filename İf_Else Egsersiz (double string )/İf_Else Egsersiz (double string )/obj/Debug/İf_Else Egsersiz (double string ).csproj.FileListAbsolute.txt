@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\bin\Debug\İf_Else Egsersiz (double string ).exe.config
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\bin\Debug\İf_Else Egsersiz (double string ).exe
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\bin\Debug\İf_Else Egsersiz (double string ).pdb
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else Egsersiz (double string ).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else Egsersiz (double string ).csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else_Egsersiz__double_string__.Form1.resources
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else_Egsersiz__double_string__.Properties.Resources.resources
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else Egsersiz (double string ).csproj.GenerateResource.cache
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else Egsersiz (double string ).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else Egsersiz (double string ).exe
+C:\Users\HP\source\repos\İf_Else Egsersiz (double string )\İf_Else Egsersiz (double string )\obj\Debug\İf_Else Egsersiz (double string ).pdb

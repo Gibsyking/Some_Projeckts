@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\bin\Debug\Chart_Grafik_Aracı_Kullanımı.exe.config
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\bin\Debug\Chart_Grafik_Aracı_Kullanımı.exe
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\bin\Debug\Chart_Grafik_Aracı_Kullanımı.pdb
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.Form1.resources
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.Properties.Resources.resources
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.exe
+C:\Users\HP\source\repos\Chart_Grafik_Aracı_Kullanımı\Chart_Grafik_Aracı_Kullanımı\obj\Debug\Chart_Grafik_Aracı_Kullanımı.pdb

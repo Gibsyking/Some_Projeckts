@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje -Pasta pişirme-progresbar ile timer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje -Pasta pişirme-progresbar ile timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje__Pasta_pişirme_progresbar_ile_timer.Form1.resources
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje__Pasta_pişirme_progresbar_ile_timer.Properties.Resources.resources
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje -Pasta pişirme-progresbar ile timer.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje -Pasta pişirme-progresbar ile timer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\bin\Debug\Proje -Pasta pişirme-progresbar ile timer.exe.config
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\bin\Debug\Proje -Pasta pişirme-progresbar ile timer.exe
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\bin\Debug\Proje -Pasta pişirme-progresbar ile timer.pdb
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje -Pasta pişirme-progresbar ile timer.exe
+C:\Users\HP\source\repos\Proje -Pasta pişirme-progresbar ile timer\Proje -Pasta pişirme-progresbar ile timer\obj\Debug\Proje -Pasta pişirme-progresbar ile timer.pdb

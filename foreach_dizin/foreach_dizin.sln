@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach_dizin", "foreach_dizin\foreach_dizin.csproj", "{0AE650C7-EC21-411E-B4B3-CA4478AC03CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE650C7-EC21-411E-B4B3-CA4478AC03CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE650C7-EC21-411E-B4B3-CA4478AC03CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE650C7-EC21-411E-B4B3-CA4478AC03CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE650C7-EC21-411E-B4B3-CA4478AC03CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB214D0A-F3FD-42C8-BAAC-D6F0532842FB}
+	EndGlobalSection
+EndGlobal

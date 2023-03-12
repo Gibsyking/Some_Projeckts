@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\bin\Debug\timer_dongusu.exe.config
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\bin\Debug\timer_dongusu.exe
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\bin\Debug\timer_dongusu.pdb
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.Form1.resources
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.Properties.Resources.resources
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.exe
+C:\Users\HP\source\repos\timer_dongusu\timer_dongusu\obj\Debug\timer_dongusu.pdb

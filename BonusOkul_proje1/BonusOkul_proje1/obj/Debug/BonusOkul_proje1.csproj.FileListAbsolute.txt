@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\bin\Debug\BonusOkul_proje1.exe.config
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\bin\Debug\BonusOkul_proje1.exe
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\bin\Debug\BonusOkul_proje1.pdb
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.Form1.resources
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.Properties.Resources.resources
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.exe
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.pdb
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.FrmOgrenciNot.resources
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.FrmOgretmen.resources
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.FrmKlub.resources
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.FrmDersler.resources
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.FrmOgrenci.resources
+C:\Users\HP\source\repos\BonusOkul_proje1\BonusOkul_proje1\obj\Debug\BonusOkul_proje1.FrnSınavNot.resources

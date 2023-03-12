@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\bin\Debug\Logic.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\bin\Debug\Logic.pdb
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\bin\Debug\DataAccesLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\bin\Debug\EntitiyLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\bin\Debug\DataAccesLayer.pdb
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\bin\Debug\EntitiyLayer.pdb
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\obj\Debug\Logic.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\Logic\obj\Debug\Logic.pdb

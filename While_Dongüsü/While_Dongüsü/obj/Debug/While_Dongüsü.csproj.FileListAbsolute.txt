@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\bin\Debug\While_Dongüsü.exe.config
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\bin\Debug\While_Dongüsü.exe
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\bin\Debug\While_Dongüsü.pdb
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.Form1.resources
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.Properties.Resources.resources
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.exe
+C:\Users\HP\source\repos\While_Dongüsü\While_Dongüsü\obj\Debug\While_Dongüsü.pdb

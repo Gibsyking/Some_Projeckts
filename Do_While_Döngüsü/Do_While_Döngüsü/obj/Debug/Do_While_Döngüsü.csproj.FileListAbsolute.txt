@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\bin\Debug\Do_While_Döngüsü.exe.config
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\bin\Debug\Do_While_Döngüsü.exe
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\bin\Debug\Do_While_Döngüsü.pdb
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.Form1.resources
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.Properties.Resources.resources
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.exe
+C:\Users\HP\source\repos\Do_While_Döngüsü\Do_While_Döngüsü\obj\Debug\Do_While_Döngüsü.pdb

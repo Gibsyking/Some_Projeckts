@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.Form1.resources
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.Properties.Resources.resources
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\bin\Debug\For_dongusu.exe.config
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\bin\Debug\For_dongusu.exe
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\bin\Debug\For_dongusu.pdb
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.exe
+C:\Users\HP\source\repos\For_dongusu\For_dongusu\obj\Debug\For_dongusu.pdb

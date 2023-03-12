@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\bin\Debug\İnteger_Degisken.exe.config
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\bin\Debug\İnteger_Degisken.exe
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\bin\Debug\İnteger_Degisken.pdb
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.Form1.resources
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.Properties.Resources.resources
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.exe
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.pdb
+C:\Users\HP\source\repos\İnteger_Degisken\İnteger_Degisken\obj\Debug\İnteger_Degisken.Form2.resources

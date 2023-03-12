@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\bin\Debug\Char_Degisken.exe.config
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\bin\Debug\Char_Degisken.exe
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\bin\Debug\Char_Degisken.pdb
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.Form1.resources
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.Properties.Resources.resources
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.exe
+C:\Users\HP\source\repos\Char_Degisken\Char_Degisken\obj\Debug\Char_Degisken.pdb

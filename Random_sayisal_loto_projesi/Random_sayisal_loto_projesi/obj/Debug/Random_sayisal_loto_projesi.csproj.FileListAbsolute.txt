@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\bin\Debug\Random_sayisal_loto_projesi.exe.config
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\bin\Debug\Random_sayisal_loto_projesi.exe
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\bin\Debug\Random_sayisal_loto_projesi.pdb
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.Form1.resources
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.Properties.Resources.resources
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.exe
+C:\Users\HP\source\repos\Random_sayisal_loto_projesi\Random_sayisal_loto_projesi\obj\Debug\Random_sayisal_loto_projesi.pdb

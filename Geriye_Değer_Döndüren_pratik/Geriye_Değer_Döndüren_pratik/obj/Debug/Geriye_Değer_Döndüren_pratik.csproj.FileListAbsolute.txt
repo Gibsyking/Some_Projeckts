@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\bin\Debug\Geriye_Değer_Döndüren_pratik.exe.config
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\bin\Debug\Geriye_Değer_Döndüren_pratik.exe
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\bin\Debug\Geriye_Değer_Döndüren_pratik.pdb
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.Form1.resources
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.Properties.Resources.resources
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.exe
+C:\Users\HP\source\repos\Geriye_Değer_Döndüren_pratik\Geriye_Değer_Döndüren_pratik\obj\Debug\Geriye_Değer_Döndüren_pratik.pdb

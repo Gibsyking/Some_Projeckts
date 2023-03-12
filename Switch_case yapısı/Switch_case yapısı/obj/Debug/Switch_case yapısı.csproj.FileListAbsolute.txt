@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\bin\Debug\Switch_case yapısı.exe.config
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\bin\Debug\Switch_case yapısı.exe
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\bin\Debug\Switch_case yapısı.pdb
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case yapısı.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case yapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case_yapısı.Form1.resources
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case_yapısı.Properties.Resources.resources
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case yapısı.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case yapısı.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case yapısı.exe
+C:\Users\HP\source\repos\Switch_case yapısı\Switch_case yapısı\obj\Debug\Switch_case yapısı.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\bin\Debug\Random_kullanımı.exe.config
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\bin\Debug\Random_kullanımı.exe
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\bin\Debug\Random_kullanımı.pdb
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.Form1.resources
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.Properties.Resources.resources
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.exe
+C:\Users\HP\source\repos\Random_kullanımı\Random_kullanımı\obj\Debug\Random_kullanımı.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\bin\Debug\Metin_Dosyasi_Olusturma.exe.config
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\bin\Debug\Metin_Dosyasi_Olusturma.exe
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\bin\Debug\Metin_Dosyasi_Olusturma.pdb
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.Form1.resources
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.Properties.Resources.resources
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.exe
+C:\Users\HP\source\repos\Metin_Dosyasi_Olusturma\Metin_Dosyasi_Olusturma\obj\Debug\Metin_Dosyasi_Olusturma.pdb

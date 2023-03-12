@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\bin\Debug\Geriye_Değer Döndüren metot.exe.config
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\bin\Debug\Geriye_Değer Döndüren metot.exe
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\bin\Debug\Geriye_Değer Döndüren metot.pdb
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer Döndüren metot.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer Döndüren metot.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer_Döndüren_metot.Form1.resources
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer_Döndüren_metot.Properties.Resources.resources
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer Döndüren metot.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer Döndüren metot.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer Döndüren metot.exe
+C:\Users\HP\source\repos\Geriye_Değer Döndüren metot\Geriye_Değer Döndüren metot\obj\Debug\Geriye_Değer Döndüren metot.pdb

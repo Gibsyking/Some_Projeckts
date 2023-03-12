@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\bin\Debug\Login paneli oluşturma dersi örnek.exe.config
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\bin\Debug\Login paneli oluşturma dersi örnek.exe
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\bin\Debug\Login paneli oluşturma dersi örnek.pdb
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login paneli oluşturma dersi örnek.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login paneli oluşturma dersi örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login_paneli_oluşturma_dersi_örnek.Form1.resources
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login_paneli_oluşturma_dersi_örnek.Properties.Resources.resources
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login paneli oluşturma dersi örnek.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login paneli oluşturma dersi örnek.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login paneli oluşturma dersi örnek.exe
+C:\Users\HP\source\repos\Login paneli oluşturma dersi örnek\Login paneli oluşturma dersi örnek\obj\Debug\Login paneli oluşturma dersi örnek.pdb

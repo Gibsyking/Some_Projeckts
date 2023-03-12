@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

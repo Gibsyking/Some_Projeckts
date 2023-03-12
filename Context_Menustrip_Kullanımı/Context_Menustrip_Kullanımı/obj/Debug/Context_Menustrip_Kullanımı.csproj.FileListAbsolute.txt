@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\bin\Debug\Context_Menustrip_Kullanımı.exe.config
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\bin\Debug\Context_Menustrip_Kullanımı.exe
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\bin\Debug\Context_Menustrip_Kullanımı.pdb
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.Form1.resources
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.Properties.Resources.resources
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.exe
+C:\Users\HP\source\repos\Context_Menustrip_Kullanımı\Context_Menustrip_Kullanımı\obj\Debug\Context_Menustrip_Kullanımı.pdb

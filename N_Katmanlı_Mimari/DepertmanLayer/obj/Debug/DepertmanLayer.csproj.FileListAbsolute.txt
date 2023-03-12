@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DepertmanLayer\bin\Debug\DepertmanLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DepertmanLayer\bin\Debug\DepertmanLayer.pdb
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DepertmanLayer\obj\Debug\DepertmanLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DepertmanLayer\obj\Debug\DepertmanLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DepertmanLayer\obj\Debug\DepertmanLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\DepertmanLayer\obj\Debug\DepertmanLayer.pdb

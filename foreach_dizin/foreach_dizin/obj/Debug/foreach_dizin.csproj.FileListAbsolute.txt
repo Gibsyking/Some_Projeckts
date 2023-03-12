@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\bin\Debug\foreach_dizin.exe.config
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\bin\Debug\foreach_dizin.exe
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\bin\Debug\foreach_dizin.pdb
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.Form1.resources
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.Properties.Resources.resources
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.exe
+C:\Users\HP\source\repos\foreach_dizin\foreach_dizin\obj\Debug\foreach_dizin.pdb

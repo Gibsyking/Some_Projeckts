@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\bin\Debug\timer_pratik_dijitalsaat.exe.config
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\bin\Debug\timer_pratik_dijitalsaat.exe
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\bin\Debug\timer_pratik_dijitalsaat.pdb
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.Form1.resources
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.Properties.Resources.resources
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.exe
+C:\Users\HP\source\repos\timer_pratik_dijitalsaat\timer_pratik_dijitalsaat\obj\Debug\timer_pratik_dijitalsaat.pdb

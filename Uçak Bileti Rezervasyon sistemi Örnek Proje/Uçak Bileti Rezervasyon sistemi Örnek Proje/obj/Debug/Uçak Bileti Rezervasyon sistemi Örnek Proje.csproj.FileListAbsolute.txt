@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\bin\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.exe.config
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\bin\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.exe
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\bin\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.pdb
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak_Bileti_Rezervasyon_sistemi_Örnek_Proje.Form1.resources
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak_Bileti_Rezervasyon_sistemi_Örnek_Proje.Properties.Resources.resources
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.exe
+C:\Users\HP\source\repos\Uçak Bileti Rezervasyon sistemi Örnek Proje\Uçak Bileti Rezervasyon sistemi Örnek Proje\obj\Debug\Uçak Bileti Rezervasyon sistemi Örnek Proje.pdb

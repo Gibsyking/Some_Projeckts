@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\bin\Debug\String_Degısken.exe.config
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\bin\Debug\String_Degısken.exe
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\bin\Debug\String_Degısken.pdb
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.Form1.resources
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.Properties.Resources.resources
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.exe
+C:\Users\HP\source\repos\String_Degısken\String_Degısken\obj\Debug\String_Degısken.pdb

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\bin\Debug\Sınıf_oluşturma_Nesne_Kavramı.exe.config
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\bin\Debug\Sınıf_oluşturma_Nesne_Kavramı.exe
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\bin\Debug\Sınıf_oluşturma_Nesne_Kavramı.pdb
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.Form1.resources
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.Form2.resources
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.Properties.Resources.resources
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.exe
+C:\Users\HP\source\repos\Sınıf_oluşturma_Nesne_Kavramı\Sınıf_oluşturma_Nesne_Kavramı\obj\Debug\Sınıf_oluşturma_Nesne_Kavramı.pdb

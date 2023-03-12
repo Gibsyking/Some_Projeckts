@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double degiskenler.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double degiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double_degiskenler.Form1.resources
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double_degiskenler.Properties.Resources.resources
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double degiskenler.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\bin\Debug\Double degiskenler.exe.config
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\bin\Debug\Double degiskenler.exe
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\bin\Debug\Double degiskenler.pdb
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double degiskenler.exe
+C:\Users\HP\source\repos\Double degiskenler\Double degiskenler\obj\Debug\Double degiskenler.pdb

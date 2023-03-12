@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\HP\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\HP\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\HP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

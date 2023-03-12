@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\combobox+listbox.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\combobox+listbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\combobox+listbox.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\combobox+listbox.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

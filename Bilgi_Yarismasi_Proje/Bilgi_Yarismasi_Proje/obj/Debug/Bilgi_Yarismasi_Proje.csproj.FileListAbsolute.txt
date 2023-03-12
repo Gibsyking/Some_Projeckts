@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\bin\Debug\Bilgi_Yarismasi_Proje.exe.config
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\bin\Debug\Bilgi_Yarismasi_Proje.exe
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\bin\Debug\Bilgi_Yarismasi_Proje.pdb
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.Form1.resources
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.Properties.Resources.resources
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.exe
+C:\Users\HP\source\repos\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else operatörleri.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else operatörleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else_operatörleri.Form1.resources
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else_operatörleri.Properties.Resources.resources
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else operatörleri.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else operatörleri.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\bin\Debug\if_else operatörleri.exe.config
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\bin\Debug\if_else operatörleri.exe
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\bin\Debug\if_else operatörleri.pdb
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else operatörleri.exe
+C:\Users\HP\source\repos\if_else operatörleri\if_else operatörleri\obj\Debug\if_else operatörleri.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.Form1.resources
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.Properties.Resources.resources
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\bin\Debug\Dizi_Elemanları_listeleme.exe.config
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\bin\Debug\Dizi_Elemanları_listeleme.exe
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\bin\Debug\Dizi_Elemanları_listeleme.pdb
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.exe
+C:\Users\HP\source\repos\Dizi_Elemanları_listeleme\Dizi_Elemanları_listeleme\obj\Debug\Dizi_Elemanları_listeleme.pdb

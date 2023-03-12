@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if else double int uygulaması egzersiz.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if else double int uygulaması egzersiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if_else_double_int_uygulaması_egzersiz.Form1.resources
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if_else_double_int_uygulaması_egzersiz.Properties.Resources.resources
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if else double int uygulaması egzersiz.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if else double int uygulaması egzersiz.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\bin\Debug\if else double int uygulaması egzersiz.exe.config
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\bin\Debug\if else double int uygulaması egzersiz.exe
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\bin\Debug\if else double int uygulaması egzersiz.pdb
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if else double int uygulaması egzersiz.exe
+C:\Users\HP\source\repos\if else double int uygulaması egzersiz\if else double int uygulaması egzersiz\obj\Debug\if else double int uygulaması egzersiz.pdb

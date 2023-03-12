@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\EntitiyLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\EntitiyLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\EntitiyLayer\obj\Debug\EntitiyLayer.dll
+C:\Users\HP\source\repos\N_Katmanlı_Mimari\EntitiyLayer\obj\Debug\EntitiyLayer.pdb

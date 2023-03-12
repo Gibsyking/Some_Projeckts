@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\bin\Debug\Captcha_Random_Uygulaması.exe.config
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\bin\Debug\Captcha_Random_Uygulaması.exe
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\bin\Debug\Captcha_Random_Uygulaması.pdb
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.Form1.resources
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.Properties.Resources.resources
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.exe
+C:\Users\HP\source\repos\Captcha_Random_Uygulaması\Captcha_Random_Uygulaması\obj\Debug\Captcha_Random_Uygulaması.pdb

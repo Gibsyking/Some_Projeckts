@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\bin\Debug\Progress_Bar_Kullanımı.exe.config
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\bin\Debug\Progress_Bar_Kullanımı.exe
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\bin\Debug\Progress_Bar_Kullanımı.pdb
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.Form1.resources
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.Properties.Resources.resources
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.exe
+C:\Users\HP\source\repos\Progress_Bar_Kullanımı\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.pdb

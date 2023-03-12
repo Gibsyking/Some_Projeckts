@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\bin\Debug\MaskedBox+picturebox+datapicker.exe.config
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\bin\Debug\MaskedBox+picturebox+datapicker.exe
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\bin\Debug\MaskedBox+picturebox+datapicker.pdb
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox+picturebox+datapicker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox+picturebox+datapicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox_picturebox_datapicker.Form1.resources
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox_picturebox_datapicker.Properties.Resources.resources
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox+picturebox+datapicker.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox+picturebox+datapicker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox+picturebox+datapicker.exe
+C:\Users\HP\source\repos\MaskedBox+picturebox+datapicker\MaskedBox+picturebox+datapicker\obj\Debug\MaskedBox+picturebox+datapicker.pdb

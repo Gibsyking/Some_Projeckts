@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\bin\Debug\Dinamik_Araçlar.exe.config
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\bin\Debug\Dinamik_Araçlar.exe
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\bin\Debug\Dinamik_Araçlar.pdb
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.Form1.resources
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.Properties.Resources.resources
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.exe
+C:\Users\HP\source\repos\Dinamik_Araçlar\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.pdb
